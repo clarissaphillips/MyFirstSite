@@ -1,2 +1,2 @@
-# MyFirstSite
-My first attempt at Web Dev
+# MyPersonalSite
+My personal website!
