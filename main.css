@@ -2,10 +2,12 @@ h1 {
 	color: white;
 	font-size: 50px;
 	/*font-family: 'Times New Roman', serif;*/
+	text-align: center;
 }
 
 p {
-	color: gold;
+	color: dark purple;
+	text-align: center;
 }
 
 #Blue {
