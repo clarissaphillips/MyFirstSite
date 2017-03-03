@@ -33,3 +33,8 @@ img {
 body {
 	background-color: lavender;
 }
+
+h3 {
+	text-align: right;
+	color: #4169E1;
+}
