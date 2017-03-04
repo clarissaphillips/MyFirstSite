@@ -6,13 +6,13 @@ h1 {
 
 p {
 	color: #9370DB;
-	text-align: center;
+	text-align: left;
 }
 
 img {
     display: block;
     margin: auto;
-    width: 55%;
+    width: 45%;
     white-space: pre;
     border-radius: 15px;
 }
